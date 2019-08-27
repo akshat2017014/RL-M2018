@@ -1,1 +1,0 @@
-After observing the two plots, we can say that the percentage of optimal action for nonstatioonary arm bandit problem increases when we take constant size step(alpha=0.1). 
