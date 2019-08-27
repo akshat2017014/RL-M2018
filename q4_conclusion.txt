@@ -1,0 +1,3 @@
+In case of stationary arms, we get more average reward if we follow UCB model then that from epsilon-greedy or Optimistic model.The probability of choosing optimal action also increases at a greater rate then the other two models.Thus UCB is a better model to use in case of stationary arms.
+
+In case of non-stationary, UCB doesn't seems efficient then epsilon-greeady or Optimistic model.Thus UCB is not a good model to use in case of non-stationary arms.  
