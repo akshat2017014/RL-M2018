@@ -1,0 +1,6 @@
+Ex 2.6-
+In the first 10 steps the optimistic model would explore each arm once thus the percentage of optimal action would be around 10% for the first 10 steps. At the 11'th step the probability that the model would choose the optimal action increses becuase now you are not exploring but just greedily choosing the best result you got in the last 10 steps.
+
+Inference from the plots-
+In case of nonstationary arms the probability of choosing the optimal arm decreases with increasing steps(when compared to stationary arms). This is beacuse we are continously changing q* as a result of which the probability of chosing optimal action decreases
+
